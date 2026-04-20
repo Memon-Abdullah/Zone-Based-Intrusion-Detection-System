@@ -4,7 +4,6 @@
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=flat-square&logo=opencv)
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-orange?style=flat-square&logo=numpy)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 A real-time computer vision surveillance system that detects human intrusions into user-defined restricted zones using **YOLOv8** object detection, **polygon-based zone geometry**, and a **3-point voting system** for robust, noise-resistant alerting.
